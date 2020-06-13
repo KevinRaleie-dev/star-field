@@ -1,4 +1,6 @@
 # star-field
 
-im a bit new to this whole thing, well im learning...
-but here's a star field for you to look at and play with :)
+## What is Processing?
+
+Processing is a flexible software sketchbook a language for learning how to code in the visual arts.
+install processing here: `https://processing.org/`
